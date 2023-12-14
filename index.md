@@ -1,4 +1,4 @@
-<img ="file:///C:/Users/Alumno/Downloads/Untitled%20Project.jpg">
+<img src="file:///C:/Users/Alumno/Downloads/Untitled%20Project.jpg">
 
 # **Josué Ríos Aguilar**
 ## Objetivo Profesional
