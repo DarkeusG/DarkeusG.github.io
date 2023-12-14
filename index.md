@@ -1,4 +1,4 @@
-<img src="Foto CV">
+<"Untitled Project.jpg">
 
 # **Josué Ríos Aguilar**
 ## Objetivo Profesional
