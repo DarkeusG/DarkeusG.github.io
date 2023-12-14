@@ -1,4 +1,4 @@
-<"Untitled Project.jpg">
+<Untitled Project.jpg>
 
 # **Josué Ríos Aguilar**
 ## Objetivo Profesional
