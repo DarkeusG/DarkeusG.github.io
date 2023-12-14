@@ -1,4 +1,4 @@
-<img src="https://github.com/DarkeusG/DarkeusG.github.io/blob/main/Untitled%20Project.jpg?raw=true">
+<img src="https://github.com/DarkeusG/DarkeusG.github.io/blob/main/Untitled%20Project%20(2).jpg?raw=true">
 
 # **Josué Ríos Aguilar**
 ## Objetivo Profesional
