@@ -1,25 +1,17 @@
 <img src="https://github.com/DarkeusG/DarkeusG.github.io/blob/main/Untitled%20Project%20(2).jpg?raw=true">
 
-# **Josué Ríos Aguilar**
-## Objetivo Profesional
-Tengo nociones de usuario en Cisco, en Wireshark y en la suite ofimática
-de Office 365. Como también, un certificado MOS Excel.
-Mi objetivo se centra en trabajar en el área de redes y también en el de la
-programación
+# **Iker Guerrero Caballero**
 
-## Formación
-### 2020 ESO
-INS, Eugeni Ors, L’Hospitalet de Llobregat, Barcelona
-• Con un promedio de un 6 aprobé la ESO.
-### 2020 - Actualidad, FPGM Sistemas Microinformáticos y Redes
- iFP Centro de Formación Profesional, Barcelona
 
-### Complementario
-2021 Competencias Digitales Excel (MOS)
-• Certificado por Microsoft.
- 2021 Inglés B2
-• English Connection - Pubilla Cases, L’Hospitalet de Llobregat,
-Barcelona
+## FORMACIÓN ACADÉMICA:
+-He cursado los 4 años de (ESO)
+-Actualmente estudio el ciclo medio formativo
+en Sistemas Microinformáticos y Redes.En el
+instituto de iFP(L´Hospitalet)
+
+
+### SOBRE MÍ:
+Organizado
 
 ## Experiencia
 Si bien no dispongo de recorrido o no tengo directamente experiencia
