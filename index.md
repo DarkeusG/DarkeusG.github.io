@@ -2,7 +2,7 @@
 
 # **Iker Guerrero Caballero**
 
-### SOBRE MÍ:
+## SOBRE MÍ:
 -Organizado
 
 -Responsable
@@ -13,7 +13,7 @@
 
 -Versátil
 
-## FORMACIÓN ACADÉMICA:
+### FORMACIÓN ACADÉMICA:
 -He cursado los 4 años de (ESO)
 -Actualmente estudio el ciclo medio formativo
 en Sistemas Microinformáticos y Redes.En el
@@ -22,13 +22,20 @@ instituto de iFP(L´Hospitalet)
 
 
 
-## Competencias personales
+### Competencias personales
+
 Manejo de Sistemas Operativos
+
 Conocimientos en Hardware
+
 Manejo de Redes Locales
+
 Conocimientos de Excel y Access
+
 Buen manejo de Windows y Linux
+
 Conocimientos lenguaje C++ y
+
 Hardware Arduino
 
 ## CONTACTO:
@@ -44,3 +51,5 @@ Barcelona(Vallcarca)
 |Español| Nivel Alto|
 |Catalán| Nivel Alto|
 |Inglés| Nivel Medio|
+
+## DISPONIBILIDAD INMEDIATA
