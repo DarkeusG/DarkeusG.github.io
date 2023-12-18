@@ -3,15 +3,15 @@
 # **Iker Guerrero Caballero**
 
 ### SOBRE MÍ:
-Organizado
+-Organizado
 
-Responsable
+-Responsable
 
-Extrovertido
+-Extrovertido
 
-Creativo
+-Creativo
 
-Versátil
+-Versátil
 
 ## FORMACIÓN ACADÉMICA:
 -He cursado los 4 años de (ESO)
@@ -21,14 +21,15 @@ instituto de iFP(L´Hospitalet)
 
 
 
-## Experiencia
-Si bien no dispongo de recorrido o no tengo directamente experiencia
-estoy en proceso de mejora y con ganas de comenzar ya.
 
 ## Competencias personales
-Soy una persona proactiva, con iniciativa, con capacidad de
-organización, además, se gestionar el estrés y sé adaptarme a ambiente
-de trabajo colaborativo social.
+Manejo de Sistemas Operativos
+Conocimientos en Hardware
+Manejo de Redes Locales
+Conocimientos de Excel y Access
+Buen manejo de Windows y Linux
+Conocimientos lenguaje C++ y
+Hardware Arduino
 
 ## Otros datos de interés
 Dispongo de tiempo para trabajar por las tardes por lo cual puedo
