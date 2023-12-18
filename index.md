@@ -39,11 +39,11 @@ Conocimientos lenguaje C++ y
 Hardware Arduino
 
 ## CONTACTO:
-# Núm.teléfono:
+NÚM.TELÉFONO:
 +34 611 61 65 51
-# Correo electrónico:
+CORREO ELECTRÓNICO:
 ikerguerrerocaballero@gmail.com
-# Localidad:
+LOCALIDAD:
 Barcelona(Vallcarca)
 
 ### Idiomas
