@@ -31,17 +31,16 @@ Buen manejo de Windows y Linux
 Conocimientos lenguaje C++ y
 Hardware Arduino
 
-## Otros datos de interés
-Dispongo de tiempo para trabajar por las tardes por lo cual puedo
-adaptarme con facilidad a las exigencias que en su momento se den.
-Si bien el tiempo es una de las cosas que menos me preocupan, he de
-decir que los martes y jueves hago 1h y 30min de inglés. Pero estas se
-pueden adaptar perfectamente a mis prácticas, a fin de aprovechar
-bien el tiempo.
+## CONTACTO:
+# Núm.teléfono:
++34 611 61 65 51
+# Correo electrónico:
+ikerguerrerocaballero@gmail.com
+# Localidad:
+Barcelona(Vallcarca)
 
 ### Idiomas
 | Idioma | Nivel |
-|:---:|   :---:|
-|Castellano | Nivel Alto|
+|Español| Nivel Alto|
 |Catalán| Nivel Alto|
 |Inglés| Nivel Medio|
