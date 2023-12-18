@@ -4,9 +4,13 @@
 
 ### SOBRE MÍ:
 Organizado
+
 Responsable
+
 Extrovertido
+
 Creativo
+
 Versátil
 
 ## FORMACIÓN ACADÉMICA:
