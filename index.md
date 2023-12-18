@@ -40,11 +40,11 @@ Hardware Arduino
 
 ## CONTACTO:
 NÚM.TELÉFONO:
-+34 611 61 65 51
+# +34 611 61 65 51
 CORREO ELECTRÓNICO:
-ikerguerrerocaballero@gmail.com
+# ikerguerrerocaballero@gmail.com
 LOCALIDAD:
-Barcelona(Vallcarca)
+# Barcelona(Vallcarca)
 
 ### Idiomas
 | Idioma | Nivel |
