@@ -2,6 +2,12 @@
 
 # **Iker Guerrero Caballero**
 
+### SOBRE MÍ:
+Organizado
+Responsable
+Extrovertido
+Creativo
+Versátil
 
 ## FORMACIÓN ACADÉMICA:
 -He cursado los 4 años de (ESO)
@@ -10,8 +16,6 @@ en Sistemas Microinformáticos y Redes.En el
 instituto de iFP(L´Hospitalet)
 
 
-### SOBRE MÍ:
-Organizado
 
 ## Experiencia
 Si bien no dispongo de recorrido o no tengo directamente experiencia
